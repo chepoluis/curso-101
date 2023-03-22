@@ -1,0 +1,15 @@
+{
+  "name": "programming-101",
+  "version": "1.0.0",
+  "description": "First programming class",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "dev:watch": "nodemon app.js"
+  },
+  "author": "Luis",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
