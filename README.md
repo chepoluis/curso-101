@@ -1,6 +1,3 @@
 # programing-101
 
-Resources:
-
-- [NodeJS](https://nodejs.org/en/download/)
-- [Visual Studio Code](https://code.visualstudio.com/download)
+Este repositorio lo estare actualizando cada clase, con lo que vayamos viendo.
